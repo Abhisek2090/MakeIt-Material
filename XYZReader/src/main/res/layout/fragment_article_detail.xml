@@ -111,6 +111,13 @@
                 android:autoLink="web"
                 android:linksClickable="true"
                 android:lineSpacingMultiplier="@fraction/articles_detail_body_line_spacing_multiplier" />
+
+            <TextView
+                android:id="@+id/see_moreTV"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:text="@string/see_more" />
         </LinearLayout>
 
     </android.support.v4.widget.NestedScrollView>

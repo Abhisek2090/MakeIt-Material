@@ -34,77 +34,76 @@
 20-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:13:9-43
 21        android:label="@string/app_name"
 21-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:14:9-41
-22        android:testOnly="true"
-23        android:theme="@style/AppTheme" >
-23-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:15:9-40
-24        <uses-library
-24-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:17:9-87
-25            android:name="org.apache.http.legacy"
-25-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:17:23-60
-26            android:required="false" />
-26-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:17:61-85
-27
-28        <activity
-28-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:19:9-26:20
-29            android:name="com.example.xyzreader.ui.ArticleListActivity"
-29-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:20:13-51
-30            android:label="@string/app_name" >
-30-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:21:13-45
-31            <intent-filter>
-31-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:22:13-25:29
-32                <action android:name="android.intent.action.MAIN" />
-32-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:23:17-69
-32-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:23:25-66
-33
-34                <category android:name="android.intent.category.LAUNCHER" />
-34-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:24:17-77
-34-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:24:27-74
-35            </intent-filter>
-36        </activity>
-37        <activity
-37-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:28:9-39:20
-38            android:name="com.example.xyzreader.ui.ArticleDetailActivity"
-38-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:29:13-53
-39            android:parentActivityName="com.example.xyzreader.ui.ArticleListActivity" >
-39-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:30:13-65
-40            <intent-filter>
-40-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:31:13-35:29
-41                <action android:name="android.intent.action.VIEW" />
-41-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:32:17-69
-41-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:32:25-66
-42
-43                <category android:name="android.intent.category.DEFAULT" />
-43-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:33:17-76
-43-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:33:27-73
-44
-45                <data android:mimeType="vnd.android.cursor.item/vnd.com.example.xyzreader.items" />
-45-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:34:17-100
-45-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:34:23-97
-46            </intent-filter>
-47
-48            <meta-data
-48-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:36:13-38:59
-49                android:name="android.support.PARENT_ACTIVITY"
-49-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:37:17-63
-50                android:value=".ui.ArticleListActivity" />
-50-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:38:17-56
-51        </activity>
-52
-53        <service
-53-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:41:9-42:40
-54            android:name="com.example.xyzreader.data.UpdaterService"
-54-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:41:18-53
-55            android:exported="false" />
-55-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:42:13-37
-56
-57        <provider
-57-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:44:9-46:40
-58            android:name="com.example.xyzreader.data.ItemsProvider"
-58-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:44:19-53
-59            android:authorities="com.example.xyzreader"
-59-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:45:13-56
-60            android:exported="false" />
-60-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:46:13-37
-61    </application>
-62
-63</manifest>
+22        android:theme="@style/AppTheme" >
+22-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:15:9-40
+23        <uses-library
+23-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:17:9-87
+24            android:name="org.apache.http.legacy"
+24-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:17:23-60
+25            android:required="false" />
+25-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:17:61-85
+26
+27        <activity
+27-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:19:9-26:20
+28            android:name="com.example.xyzreader.ui.ArticleListActivity"
+28-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:20:13-51
+29            android:label="@string/app_name" >
+29-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:21:13-45
+30            <intent-filter>
+30-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:22:13-25:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:23:17-69
+31-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:23:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:24:17-77
+33-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:24:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:28:9-39:20
+37            android:name="com.example.xyzreader.ui.ArticleDetailActivity"
+37-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:29:13-53
+38            android:parentActivityName="com.example.xyzreader.ui.ArticleListActivity" >
+38-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:30:13-65
+39            <intent-filter>
+39-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:31:13-35:29
+40                <action android:name="android.intent.action.VIEW" />
+40-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:32:17-69
+40-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:32:25-66
+41
+42                <category android:name="android.intent.category.DEFAULT" />
+42-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:33:17-76
+42-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:33:27-73
+43
+44                <data android:mimeType="vnd.android.cursor.item/vnd.com.example.xyzreader.items" />
+44-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:34:17-100
+44-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:34:23-97
+45            </intent-filter>
+46
+47            <meta-data
+47-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:36:13-38:59
+48                android:name="android.support.PARENT_ACTIVITY"
+48-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:37:17-63
+49                android:value=".ui.ArticleListActivity" />
+49-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:38:17-56
+50        </activity>
+51
+52        <service
+52-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:41:9-42:40
+53            android:name="com.example.xyzreader.data.UpdaterService"
+53-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:41:18-53
+54            android:exported="false" />
+54-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:42:13-37
+55
+56        <provider
+56-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:44:9-46:40
+57            android:name="com.example.xyzreader.data.ItemsProvider"
+57-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:44:19-53
+58            android:authorities="com.example.xyzreader"
+58-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:45:13-56
+59            android:exported="false" />
+59-->/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:46:13-37
+60    </application>
+61
+62</manifest>

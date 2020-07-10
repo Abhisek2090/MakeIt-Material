@@ -12,29 +12,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fe437e5-c109-47eb-a0f3-38c6c946eec8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/XYZReader/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/XYZReader/XYZReader.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/XYZReader/XYZReader.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/dex/debug/mergeDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/dex/debug/mergeDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleDetailActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleDetailActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleDetailFragment$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleDetailFragment$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleDetailFragment$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleDetailFragment$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleDetailFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleDetailFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleListActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleListActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/642db5eb050f2fb718567a9f462eeac40e2c0619107dc09822bbd1415078d16e_0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/642db5eb050f2fb718567a9f462eeac40e2c0619107dc09822bbd1415078d16e_1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/642db5eb050f2fb718567a9f462eeac40e2c0619107dc09822bbd1415078d16e_2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/642db5eb050f2fb718567a9f462eeac40e2c0619107dc09822bbd1415078d16e_3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleDetailActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleDetailActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleDetailFragment$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleDetailFragment$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleDetailFragment$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleDetailFragment$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleDetailFragment.dex" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleDetailFragment.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.dex" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleListActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleListActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/layout_fragment_article_detail.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/layout_fragment_article_detail.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/layout_list_item_article.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/layout_list_item_article.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/outputs/apk/debug/XYZReader-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/outputs/apk/debug/XYZReader-debug.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/DrawInsetsFrameLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/DrawInsetsFrameLayout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ObservableScrollView.java" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ObservableScrollView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/drawable/add_fab_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/drawable/add_fab_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values-land/macro_layout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values-sw600dp/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/values-sw600dp/dimens.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values-sw600dp/macro_layout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values-w800dp/macro_layout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/values/dimens.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/macro_layout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,50 +198,54 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1594318600346" />
-    <state x="451" y="233" width="520" height="326" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1594374049306">
+    <state x="451" y="233" width="755" height="326" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1594383714720">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="451" y="233" width="520" height="326" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1299.741@67.27.1299.741" timestamp="1594374049306" />
+    <state x="451" y="233" width="755" height="326" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1299.741@67.27.1299.741" timestamp="1594383714720" />
     <state x="299" y="154" width="824" height="484" key="AndroidCreateResourceDirectoryDialog" timestamp="1594363345667">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="299" y="154" width="824" height="484" key="AndroidCreateResourceDirectoryDialog/67.27.1299.741@67.27.1299.741" timestamp="1594363345667" />
+    <state x="565" y="211" width="292" height="370" key="AndroidCreateXmlResourceDialog" timestamp="1594382511671">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="565" y="211" width="292" height="370" key="AndroidCreateXmlResourceDialog/67.27.1299.741@67.27.1299.741" timestamp="1594382511671" />
     <state x="499" y="139" width="424" height="513" key="FileChooserDialogImpl" timestamp="1594363307361">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="139" width="424" height="513" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1594363307361" />
-    <state width="1253" height="369" key="GridCell.Tab.0.bottom" timestamp="1594374490965">
+    <state width="1253" height="219" key="GridCell.Tab.0.bottom" timestamp="1594383035362">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="369" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1594374490965" />
-    <state width="1253" height="369" key="GridCell.Tab.0.center" timestamp="1594374490963">
+    <state width="1253" height="219" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1594383035361" />
+    <state width="1253" height="219" key="GridCell.Tab.0.center" timestamp="1594383035359">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="369" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1594374490963" />
-    <state width="1253" height="369" key="GridCell.Tab.0.left" timestamp="1594374490961">
+    <state width="1253" height="219" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1594383035359" />
+    <state width="1253" height="219" key="GridCell.Tab.0.left" timestamp="1594383035358">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="369" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1594374490961" />
-    <state width="1253" height="369" key="GridCell.Tab.0.right" timestamp="1594374490964">
+    <state width="1253" height="219" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1594383035358" />
+    <state width="1253" height="219" key="GridCell.Tab.0.right" timestamp="1594383035361">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="369" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1594374490964" />
-    <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1594362216953">
+    <state width="1253" height="219" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1594383035361" />
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1594383035366">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1594362216953" />
-    <state width="1253" height="219" key="GridCell.Tab.1.center" timestamp="1594362216952">
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1594383035366" />
+    <state width="1253" height="219" key="GridCell.Tab.1.center" timestamp="1594383035364">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1594362216952" />
-    <state width="1253" height="219" key="GridCell.Tab.1.left" timestamp="1594362216952">
+    <state width="1253" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1594383035364" />
+    <state width="1253" height="219" key="GridCell.Tab.1.left" timestamp="1594383035363">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1594362216952" />
-    <state width="1253" height="219" key="GridCell.Tab.1.right" timestamp="1594362216952">
+    <state width="1253" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1594383035363" />
+    <state width="1253" height="219" key="GridCell.Tab.1.right" timestamp="1594383035365">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1594362216952" />
+    <state width="1253" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1594383035365" />
     <state x="463" y="89" width="496" height="615" key="RollbackChangesDialog" timestamp="1594372112360">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -222,36 +254,40 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1594318768426" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1594319253926">
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1594382060682">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1594319253926" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1594382060682" />
     <state x="450" y="240" width="523" height="312" key="edit.logcat.filter.dialog.dimensions" timestamp="1594319323355">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="450" y="240" width="523" height="312" key="edit.logcat.filter.dialog.dimensions/67.27.1299.741@67.27.1299.741" timestamp="1594319323355" />
-    <state x="289" y="103" width="855" height="586" key="find.popup" timestamp="1594374243568">
+    <state x="289" y="103" width="855" height="586" key="find.popup" timestamp="1594382124631">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="289" y="103" width="855" height="586" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1594374243568" />
+    <state x="289" y="103" width="855" height="586" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1594382124631" />
+    <state x="379" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1594382538545">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="88" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1594382538545" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java</url>
-          <line>262</line>
+          <line>260</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java</url>
-          <line>278</line>
-          <option name="timeStamp" value="2" />
+          <line>227</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java</url>
-          <line>277</line>
-          <option name="timeStamp" value="3" />
+          <line>220</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1161,6 +1161,7 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
+id see_moreTV
 id select_dialog_listview
 id selected
 id share_fab
@@ -1367,6 +1368,7 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
+string see_more
 string status_bar_notification_info_overflow
 string up
 string welcome_xyz_reader
