@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/gp-abhishek/xyz-reader-starter-code/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/home/gp-abhishek/xyz-reader-starter-code/XYZReader/src/main/res/values-sw600dp-land/dimens.xml",
+                    "from": {
+                        "startLines": "3,5,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "75,175,119",
+                        "endColumns": "43,58,55",
+                        "endOffsets": "114,229,170"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,99,158",
+                        "endColumns": "43,58,55",
+                        "endOffsets": "94,153,209"
+                    }
+                }
+            ]
+        }
+    ]
+}

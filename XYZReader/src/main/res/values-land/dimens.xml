@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- list -->
+    <dimen name="listview_margin">4dp</dimen>
+    <integer name="listview_column_count">3</integer>
+
+    <!-- detail -->
+    <dimen name="detailview_photo_height">224dp</dimen>
+    <dimen name="artcile_detail_inner_horizontal_margin">112dp</dimen>
+    <dimen name="detailview_card_width">450dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="detailview_scroll_top_margin">-160dp</dimen>
+</resources>

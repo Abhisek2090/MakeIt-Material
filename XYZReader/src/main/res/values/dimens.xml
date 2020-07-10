@@ -1,0 +1,41 @@
+<resources>
+    <!-- list -->
+    <dimen name="listview_margin">4dp</dimen>
+    <dimen name="listview_toolbar_side_margin">0dp</dimen>
+    <integer name="listview_column_count">2</integer>
+
+    <!-- detail -->
+    <bool name="detail_is_card">false</bool>
+    <dimen name="detailview_photo_height">304dp</dimen>
+    <dimen name="detailview_card_top_margin">@dimen/detailview_photo_height</dimen>
+    <dimen name="artcile_detail_inner_horizontal_margin">16dp</dimen>
+    <dimen name="detail_card_max_width">12000dp</dimen> <!-- force match_parent -->
+    <dimen name="article_detail_metabar_vertical_padding">16dp</dimen>
+    <dimen name="artcile_detail_metabar_title_bottom_padding">4dp</dimen>
+    <dimen name="detailview_body_top_margin">16dp</dimen>
+    <dimen name="detailview_body_bottom_margin">88dp</dimen>
+
+    <!-- detail -->
+    <dimen name="detailview_title_text_size">32sp</dimen>
+    <dimen name="detailview_body_text_size">22sp</dimen>
+    <item name="articles_detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+    <dimen name="article_detail_appbar_height">320dp</dimen>
+
+    <!-- fab -->
+    <dimen name="fab_elevation">8dp</dimen>
+    <dimen name="fab_press_z_translation">6dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- card -->
+    <dimen name="cardview_text_padding">12dp</dimen>
+    <dimen name="cardview_margin_inner">4dp</dimen>
+
+    <dimen name="activity_horizontal_margin">12dp</dimen>
+    <dimen name="activity_vertical_margin">8dp</dimen>
+
+    <integer name="fragment_details_background_fade_millis">1500</integer>
+    <dimen name="detailview_card_width">450dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="detailview_scroll_top_margin">-160dp</dimen>
+
+</resources>
